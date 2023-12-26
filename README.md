@@ -1,4 +1,4 @@
-[![MasterHead](https://flic.kr/p/2poHzZS)](https://github.com/carolisc)
+[![MasterHead](https://live.staticflickr.com/65535/53422361253_268e9b9586_b.jpg)](https://github.com/carolisc)
 
 - 🔭 I’m currently working on projects to grow my tech community.
 - 🌱 I’m currently learning JavaScript.
