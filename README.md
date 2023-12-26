@@ -1,4 +1,4 @@
-[![MasterHead](https://imgur.com/a/FRUvKeM)]([https://github.com/carolisc])
+[![MasterHead](https://imgur.com/a/FRUvKeM)](https://github.com/carolisc)
 
 - 🔭 I’m currently working on projects to grow my tech community.
 - 🌱 I’m currently learning JavaScript.
