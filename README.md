@@ -5,4 +5,6 @@
 - 👯 I’m looking to collaborate on Full Stack projects.
 - 📫 How to reach me: carolinaalcar@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carolisc&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
