@@ -3,8 +3,10 @@
 - 🔭 I’m currently working on projects to grow and evolve my tech community.
 - 🌱 I’m learning JavaScript through a one-year online course and FreeCodeCamp projects.
 - 👯 I’m looking to collaborate on JavaScript Web projects.
-- 📫 How to reach me: carolinaalcar@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/caroliscardoso/
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carolisc&theme=dark)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=carolisc&theme=dark" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolisc&layout=compact&theme=vision-friendly-dark" alt="Top Langs" width="48%">
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
