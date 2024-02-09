@@ -1,8 +1,8 @@
 [![MasterHead](https://live.staticflickr.com/65535/53422361253_268e9b9586_b.jpg)](https://github.com/carolisc)
 
 - 🔭 I’m currently working on projects to grow and evolve my tech community.
-- 🌱 I’m learning JavaScript through a one-year online course and FreeCodeCamp projects.
-- 👯 I’m looking to collaborate on JavaScript Web projects.
+- 🌱 I’m learning JavaScript through a one-year online bootcamp.
+- 👯 I’m looking to collaborate on JavaScript projects.
 - 📫 How to reach me: https://www.linkedin.com/in/caroliscardoso/
 
 <div align="center">
