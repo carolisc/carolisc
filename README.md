@@ -6,7 +6,8 @@
 - 📫 How to reach me: https://www.linkedin.com/in/caroliscardoso/
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=carolisc&theme=dark" alt="GitHub Streak" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolisc&layout=compact&theme=vision-friendly-dark" alt="Top Langs" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=carolisc&theme=dark" alt="GitHub Streak" height="195px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolisc&layout=compact&theme=vision-friendly-dark&bg_color=333333" alt="Top Langs" height="195px">
 </div>
+
 
